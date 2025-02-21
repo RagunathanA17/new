@@ -5,3 +5,7 @@ p{
 p{
     font-weight: bolder;
 }
+
+p{
+    font-style: inherit;
+}
