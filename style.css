@@ -1,7 +1,9 @@
 p{
     font-size: 20px;
 }
-
+h1{
+    color: blue;
+}
 p{
     font-weight: bolder;
 }
